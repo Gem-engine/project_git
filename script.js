@@ -1,1 +1,2 @@
-var jour1 = "lundi"
+var jour1 = "Lundi"
+var jour2 = "Mardi"
